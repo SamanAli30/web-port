@@ -1,0 +1,49 @@
+/*cmn stl*/
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary{
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: 0;
+    color: var(--White-Color, #FFF);
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15 35;
+
+
+}
+
+
+
+/* nav rltd style*/
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nt{
+    color: var(--Dark-01, #181818);
+
+font-family: Open Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.textr{
+    color: orange;
+}
+nav > ul {
+    display: flex;
+}
+
+nav li{
+    list-style: none;
+    padding-right: 50px;
+ 
+}
+nav  a{
+    text-decoration: none;
+}
