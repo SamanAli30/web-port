@@ -47,3 +47,17 @@ nav li{
 nav  a{
     text-decoration: none;
 }
+/* header rltd */
+.hclass{
+    background-color: #FFF8F3;
+}
+.head{
+    display:flex;
+    align-items: center;
+
+}
+.img{
+    width: 584px;
+height: 676px;
+flex-shrink: 0;
+}
