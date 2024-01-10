@@ -232,3 +232,24 @@ footer {
     font-weight: 700;
   
 }
+.footer-column{
+    width: 50%;
+    gap: 100px;
+}
+
+.contact input[type="text"],.contact input[type="email"],textarea{
+    display: block;
+    margin-bottom:25px;
+    padding:18px 30px ;
+    width: 100%;
+    border:0px;
+    border-radius: 5px;
+    background: #FFF;
+}
+.social-links a{
+    margin-left: 30px;
+}
+.footer-des{
+    margin: 20px 10px;
+}
+   
