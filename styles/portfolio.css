@@ -62,9 +62,9 @@ nav a {
 /* header rltd */
 .header {
     background-color: #FFF8F3;
-    background-image: url('../images/header_bg.png');
+    background-image: url('../images/header_bg.png'),url('../images/developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right,top left;
 
 }
 
@@ -97,7 +97,9 @@ nav a {
     /* 166.667% */
     margin-top: 5px;
 }
-
+.header h3{
+    margin-left: 150px;
+}
 
 
 
